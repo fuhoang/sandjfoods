@@ -193,11 +193,11 @@ a:focus {
     }
 
     .intro .intro-body .brand-heading {
-        font-size: 50px;
+        font-size: 70px;
     }
 
     .intro .intro-body .intro-text {
-        font-size: 60px;
+        font-size: 90px;
         font-weight: 300;
     }
 }
@@ -391,6 +391,7 @@ ul.banner-social-buttons {
 }
 
 footer {
+    background-color: #000;
     padding: 50px 0;
 }
 
