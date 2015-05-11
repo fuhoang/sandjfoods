@@ -78,11 +78,13 @@ a:focus {
 }
 
 .navbar-custom .navbar-brand {
-    font-weight: 200;
-   font-family: 'Great Vibes', cursive, serif, Helvetica,Arial,sans-serif;
-    font-style: italic;
-    font-size: 34px;
-    color: #FF6262;
+    background:url(../img/sjLogo_200.png) no-repeat;
+    float:left;
+    height:67px;
+    overflow:hidden;
+    text-indent:-9999px;
+    width:200px;
+    display: inline-block;
 
 }
 
