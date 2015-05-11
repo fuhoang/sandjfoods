@@ -25,9 +25,9 @@ h5,
 h6 {
     margin: 0 0 0px;
     text-transform: uppercase;
-    font-family: 'Old Standard TT', serif, Helvetica,Arial,sans-serif;
+    font-family: 'Cinzel', serif, Helvetica,Arial,sans-serif;
     font-weight: 800;
-    color: #B8944D;
+    color: #cc9966;
 }
 
 p {
@@ -63,11 +63,10 @@ a:focus {
 
 .underheader-text {
     display: inline-block;
-    margin: 0 0 20px;
-    font-family: 'Lobster Two', cursive, serif, Helvetica,Arial,sans-serif;
-    font-style: italic;
-    font-size: 34px;
-    color: #FF6262;
+    margin: -30px 0 20px;
+    font-family: 'Great Vibes', cursive, serif, Helvetica,Arial,sans-serif;
+    font-size: 54px;
+    color: #ff6666;
 }
 
 .navbar-custom {
@@ -80,7 +79,7 @@ a:focus {
 
 .navbar-custom .navbar-brand {
     font-weight: 200;
-    font-family: 'Lobster Two', cursive, serif, Helvetica,Arial,sans-serif;
+   font-family: 'Great Vibes', cursive, serif, Helvetica,Arial,sans-serif;
     font-style: italic;
     font-size: 34px;
     color: #FF6262;
@@ -180,10 +179,11 @@ a:focus {
 }
 
 .intro .intro-body .intro-text {
-    font-family: 'Lobster Two', cursive, serif, Helvetica,Arial,sans-serif;
+    font-family: 'Great Vibes', cursive, serif, Helvetica,Arial,sans-serif;
     font-style: italic;
     font-size: 34px;
-    color: #FF6262;
+    color: #ff6666;
+    margin-top: -60px;
 }
 
 @media(min-width:768px) {
