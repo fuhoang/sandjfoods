@@ -295,10 +295,22 @@ a:focus {
     -o-background-size: cover;
 }
 
-#cakes {
-    background: url(../img/cake2.jpg) no-repeat center center fixed;
+#about{
+    background: url(../img/sjWhite.jpg) no-repeat center center fixed;
     display: table;
     height: 800px;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#cakes {
+    background: url(../img/cakesBG.jpg) no-repeat center center fixed;
+    display: table;
+    height: 600px;
     position: relative;
     width: 100%;
     -webkit-background-size: cover;
@@ -308,12 +320,33 @@ a:focus {
 }
 
 #cakes .panel {
-  opacity: 0.75;
+    background-color: transparent;
+    border:0;
+    color: #fff;
+}
+
+#cakes .panel-heading{
+    background-color: transparent;
+    border:0;
+ 
+}
+
+#events-catering{
+    background: url(../img/catering.jpg) no-repeat center center fixed;
+    display: table;
+    height: 800px;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
 }
 
 
 #dessert {
-    background: url(../img/peterpan1.jpg) no-repeat center center fixed;
+    background: url(../img/sweettable.jpg) no-repeat center center fixed;
     display: table;
     height: 800px;
     position: relative;
@@ -323,6 +356,12 @@ a:focus {
     -o-background-size: cover;
     background-size: cover;
 }
+
+
+ #dessert .panel{
+    opacity: 0.8;
+    border:0;
+ }
 
 
 #map {
