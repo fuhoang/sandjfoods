@@ -345,16 +345,28 @@ a:focus {
 }
 
 
-#dessert {
-    background: url(../img/sweettable.jpg) no-repeat center center fixed;
+#cake-variety {
+    background:#fff url(../img/zigzagPeach.png) no-repeat center center fixed;
     display: table;
-    height: 800px;
+    height: auto;
     position: relative;
     width: 100%;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.circle-cake {
+    background:url(../img/cakesizesCircle.png) no-repeat center center;
+    display: table;
+    height:500px;
+    position: relative;
+    width: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;   
 }
 
 
